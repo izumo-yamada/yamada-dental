@@ -35,7 +35,7 @@ h2 {
     color: #6e8f80;
 }
 
-.doctor-img {
+.eguipment-img {
     width: 200px;
     border-radius: 50%;
     margin: 20px 0;
@@ -61,7 +61,15 @@ h2 {
     text-decoration: none;
     border-radius: 8px;
 }
+.access {
+  margin: 50px auto;
+  max-width: 1000px;
+  padding: 20px;
+}
 
+.access iframe {
+  border-radius: 20px;
+}
 footer {
     background-color: #5f7a6e;
     color: white;
