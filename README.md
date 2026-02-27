@@ -1,1 +1,70 @@
-# yamada-dental
+index.html
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>山田歯科医院 | 出雲市斐川町の地域密着歯科</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+    <div class="container">
+        <h1>山田歯科医院</h1>
+        <p class="subtitle">家族で通える、あたたかい地域の歯科医院</p>
+    </div>
+</header>
+
+<section class="main-visual">
+    <img src="images/clinic.jpg" alt="山田歯科医院 外観">
+</section>
+
+<section class="container">
+    <h2>私たちの診療方針</h2>
+    <p>
+    治療を「勧める」ことはありますが、決して「強制」はしません。<br>
+    メリット・デメリットを丁寧に説明し、患者さまの意思を尊重します。
+    </p>
+</section>
+
+<section class="container doctor">
+    <h2>院長紹介</h2>
+    <img src="images/doctor.jpg" alt="院長写真" class="doctor-img">
+    <p>
+    1990年開業。地域に根ざし、長く通っていただける歯科医院を目指しています。
+    </p>
+</section>
+
+<section class="container">
+    <h2>診療内容</h2>
+    <ul class="services">
+        <li>一般歯科（虫歯・歯周病・補綴）</li>
+        <li>口腔外科（親知らず・抜歯など）</li>
+        <li>小児歯科</li>
+        <li>矯正歯科（連携医療機関対応）</li>
+        <li>予防・クリーニング</li>
+    </ul>
+</section>
+
+<section class="container blog">
+    <h2>ブログ</h2>
+    <p>入れ歯や予防、地域医療について発信しています。</p>
+    <a href="https://note.com/izumoyamadashika" class="blog-button" target="_blank">
+        noteを見る
+    </a>
+</section>
+
+<section class="container access">
+    <h2>アクセス</h2>
+    <p>島根県出雲市斐川町荘原</p>
+    <p>駐車場約30台完備・バリアフリー対応</p>
+</section>
+
+<footer>
+    <p>© 2026 山田歯科医院</p>
+</footer>
+
+</body>
+</html>
