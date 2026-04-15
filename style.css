@@ -248,3 +248,7 @@ site-header {
 .breadcrumb a:hover {
   text-decoration: underline;
 }
+.denture-page .site-header {
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 10px;
+}
