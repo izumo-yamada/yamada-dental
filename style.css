@@ -257,4 +257,8 @@ footer {
 .denture-page .site-header {
   border-bottom: 2px solid #ddd;
   padding-bottom: 10px;
+}.denture-page .logo {
+  width: 180px;
+  height: auto;
 }
+
