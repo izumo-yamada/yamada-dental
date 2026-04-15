@@ -11,7 +11,7 @@ body {
     width: 90%;
     max-width: 900px;
     margin: auto;
-    padding: 40px 0;
+    padding: 50px 0;
 }
 
 header {
@@ -35,7 +35,7 @@ h2 {
     color: #6e8f80;
 }
 
-.eguipment-img {
+.equipment-img {
     width: 200px;
     border-radius: 50%;
     margin: 20px 0;
@@ -109,7 +109,7 @@ footer {
   margin-top: 15px;
   font-size: 14px;
 }
-site-header {
+.site-header {
   text-align: center;
   padding: 30px 20px;
 }
@@ -172,7 +172,7 @@ site-header {
   color: #555;
   text-align: center;
 }
-.cta-button {
+.cta-button :hover{
   display: block;
   background: #F6C177;
   color: white;
@@ -182,6 +182,8 @@ site-header {
   margin: 20px auto;
   max-width: 300px;
   font-weight: bold;
+    opacity: 0.9;
+    
 }
 .hero {
   position: relative;
@@ -243,6 +245,7 @@ site-header {
 .breadcrumb {
   font-size: 14px;
   color: #666;
+  margin: 10px 0 20px;
 }
 
 .breadcrumb a:hover {
@@ -254,5 +257,5 @@ site-header {
 }
 .denture-page .logo {
   max-width: 80px;
-  height: 15px;
+  height: auto;
 }
