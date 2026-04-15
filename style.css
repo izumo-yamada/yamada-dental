@@ -252,3 +252,7 @@ site-header {
   border-bottom: 2px solid #ddd;
   padding-bottom: 10px;
 }
+.denture-page .logo {
+  max-width: 80px;
+  height: auto;
+}
