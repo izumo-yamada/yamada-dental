@@ -172,7 +172,7 @@ footer {
   color: #555;
   text-align: center;
 }
-.cta-button :hover{
+.cta-button :{
   display: block;
   background: #F6C177;
   color: white;
@@ -182,7 +182,6 @@ footer {
   margin: 20px auto;
   max-width: 300px;
   font-weight: bold;
-    opacity: 0.9;
     
 }
 .hero {
