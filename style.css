@@ -266,7 +266,6 @@ footer {
   h1 {
     font-size: 20px;
     line-height: 1.4;
-    word-break: keep-all;
   }
 
   h2 {
@@ -275,7 +274,10 @@ footer {
 
   p {
     font-size: 14px;
-    word-break: keep-all;
+  }
+
+  .container {
+    padding: 30px 0;
   }
 
 }
